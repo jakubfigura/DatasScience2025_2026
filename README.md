@@ -6,3 +6,5 @@ This repository contains the preparation of machine learning models for data set
 The dat set is publicliy available here:
 <br/>
 Neshat, M., Wagner, M., & Alexander, B. (2018). Wave Energy Converters [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5831S.
+
+The final version of Pipeline with models and metrics is here: ![models](https://github.com/jakubfigura/DatasScience2025_2026/blob/main/energy/energy.ipynb)
