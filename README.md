@@ -11,4 +11,4 @@ Neshat, M., Wagner, M., & Alexander, B. (2018). Wave Energy Converters [Dataset]
 The final version of Pipeline with models and metrics is here: [models](https://github.com/jakubfigura/DatasScience2025_2026/blob/main/energy/energy.ipynb)
 </br>
 
-
+![plots](energy/plots/models.png)
