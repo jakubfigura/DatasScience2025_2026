@@ -9,7 +9,7 @@ The dat set is publicliy available here:
 Neshat, M., Wagner, M., & Alexander, B. (2018). Wave Energy Converters [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5831S.
 </br>
 
-The final version of Pipeline with models and metrics is here: [models](https://github.com/jakubfigura/DatasScience2025_2026/blob/main/energy/energy.ipynb)
+The final version of Pipeline with models and metrics is here: [models](https://github.com/jakubfigura/DatasScience2025_2026/blob/main/energy_regression/energy/energy.ipynb)
 </br>
 
-![plots](energy_project/energy/plots/models.png)
+![plots](energy_regression/energy/plots/models.png)
